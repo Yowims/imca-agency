@@ -1,0 +1,7 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteOptions Inherit
+
+RewriteRule ^infos$ infos.php
+RewriteRule ^equipe$ equipe.php
+RewriteRule ^faq$ faq.php
